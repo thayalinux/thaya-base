@@ -1,0 +1,3 @@
+[submodule "live-build"]
+	path = live-build
+	url = git://live-systems.org/git/live-build.git
